@@ -50,7 +50,7 @@ Click on the <a href="https://github.com/StudentCode-in/AapKaVaidya/"><img src="
 ```
 <br>
 
-### 🤖&nbsp; Some useful links to learn flutter:
+## 🤖&nbsp; Some useful links to learn flutter:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
@@ -61,13 +61,13 @@ samples, guidance on mobile development, and a full API reference.
 
 <br>
 
-### ⚠️&nbsp; Issues:
+## ⚠️&nbsp; Issues:
 
 Always feel free to file a new issue with a respective title and a detailed description on the [AapKaVaidya](https://github.com/StudentCode-in/AapKaVaidya) repository.
 
 <br>
 
-### 🤝&nbsp; Contribution:
+## 🤝&nbsp; Contribution:
 If you have any great ideas which can make this project more better, you can make changes and send me a Pull Request(PR) with a respective title and description on the [AapKaVaidya](https://github.com/StudentCode-in/AapKaVaidya) repository, I will definitely review your pull request.
 
 
@@ -75,10 +75,8 @@ If you have any great ideas which can make this project more better, you can mak
 
 ### Project Admin
 
-| <td align="center"><a href="https://github.com/Harshit564"><img src="https://avatars1.githubusercontent.com/u/47476857?s=400&u=8b1d57f71964ea8821662524e171a16e4fcc5c79&v=4" width="100px;" alt="Harshit"/><br /></a></td>
- |
-| :------------------------: |
-| **HARSHIT SINGH**  |
+<td align="center"><a href="https://github.com/Harshit564"><img src="https://avatars1.githubusercontent.com/u/47476857?s=400&u=8b1d57f71964ea8821662524e171a16e4fcc5c79&v=4" width="100px;" alt="Harshit"/><br/><sub><b>HARSHIT SINGH</b></sub></a></td>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/Harshit564?label=Follow&style=social)](https://github.com/Harshit564/)
 
