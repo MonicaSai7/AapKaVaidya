@@ -77,6 +77,7 @@ If you have any great ideas which can make this project more better, you can mak
 
 <td align="center"><a href="https://github.com/Harshit564"><img src="https://avatars1.githubusercontent.com/u/47476857?s=400&u=8b1d57f71964ea8821662524e171a16e4fcc5c79&v=4" width="100px;" alt="Harshit"/><br/><sub><b>HARSHIT SINGH</b></sub></a></td>
 
+<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Harshit564?label=Follow&style=social)](https://github.com/Harshit564/)
 
